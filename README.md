@@ -14,3 +14,8 @@ et visualisation en temps réel via Python.
 - **Traitement & visualisation** : Python (matplotlib, pandas, pyserial)
 
 ## 📁 Structure du projet
+bracelet-medical-iot/
+├── hardware/       Code embarqué ESP32 (Arduino C++)
+├── scripts/        Scripts Python d’acquisition et visualisation
+├── data/           Données captées
+└── docs/           Schémas de câblage, documentation
